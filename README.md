@@ -1,5 +1,5 @@
 
-## Dataset For TIVM audio-video matching model
+## Dataset for TIVM audio-video matching model
 
 The dataset, including both audio and video, has been segmented and is available for download from Google Drive. You can access and download the segmented data using the link below:
 
